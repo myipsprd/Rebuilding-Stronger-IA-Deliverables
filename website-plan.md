@@ -8,7 +8,8 @@ The district is undertaking a website rebuild project to enhance communication a
 </span> **March 8, 2023:** Begin developing technical and functional requirements, identifying necessary plugins and initial implementation costs.
 - <span style="color:red">&#10003;	
 </span> **March 15, 2023:** Develop website buckets, their descriptions and timeline of redisgn report creation.
-- **March 22, 2023:** Information architecture for each website bucket. Information and media retention strategy for older content and media.
+- <span style="color:red">&#10003;	
+</span> **March 22, 2023:** Information architecture for each website bucket. Information and media retention strategy for older content and media.
 - **March 29, 2023:** Develop a training curriculum outline and identify necessary training requirements for staff members.
 - **April 5, 2023:** Begin considering design aspects for the website, including layout, color schemes, typography, and other visual elements.
 - **April 12, 2023:** Define design requirements for the website, including user interface (UI) and user experience (UX) design considerations.
@@ -172,27 +173,329 @@ Designed to provide students with unique educational experiences and specialized
 *   URBAN ACT Academy @ Washington Irving 14
 
 
-## School Website Taxonomies
-(Fill IN)
+# Organizational Structure Taxonomies
 
-# Information & Media Retention Strategy
-As part of our efforts to reduce technical debt and streamline our website infrastructure, we will be implementing an Information & Media Retention Strategy. The purpose of this strategy is to ensure that only current and relevant content is stored on the website, reducing the amount of backend space required and improving website performance.
+## District – Full
+<ul>
+<li>About Us
+<ul>
+<li>District Overview</li>
+<li>Our Superintendent</li>
+<li>IPS Schools
+<ul>
+<li>School Profiles</li>
+<li>School Boundaries</li>
+<li>School Calendars</li>
+<li>School Supply Lists</li>
+<li>Student Handbooks</li>
+<li>School Improvement Plans</li>
+</ul>
+</li>
+<li>IPS Police Department</li>
+<li>Strategic Plan 2025</li>
+<li>COVID-19 Health &amp; Safety Protocols and Resources</li>
+<li>Accountability Report Card</li>
+<li>Website Accessibility</li>
+</ul>
+</li>
+<li>Central Services
+<ul>
+<li>Athletics
+<ul>
+<li>Sports Schedules and Scores</li>
+<li>Athletic Forms and Documents</li>
+</ul>
+</li>
+<li>Communications and Engagement
+<ul>
+<li>News and Announcements</li>
+<li>Social Media</li>
+<li>IPS Newsletter</li>
+</ul>
+</li>
+<li>Teaching and Learning
+<ul>
+<li>Curriculum and Instruction</li>
+<li>Professional Development</li>
+<li>Student Assessment</li>
+</ul>
+</li>
+<li>Federal and Special Programs
+<ul>
+<li>Special Education Services</li>
+<li>English Learner Services</li>
+<li>Title I Program</li>
+</ul>
+</li>
+<li>Finance &amp; Doing Business with IPS
+<ul>
+<li>Budget and Finance Reports</li>
+<li>Purchasing and Procurement</li>
+<li>Vendor Information</li>
+</ul>
+</li>
+<li>Performance and Continuous Improvement
+<ul>
+<li>District and School Performance Data</li>
+<li>Continuous Improvement Process</li>
+</ul>
+</li>
+<li>Portfolio Management
+<ul>
+<li>Innovation Schools and Programs</li>
+<li>Selective Recommendation Programs</li>
+</ul>
+</li>
+<li>Postsecondary Readiness
+<ul>
+<li>College and Career Readiness</li>
+<li>Scholarship Information</li>
+<li>Financial Aid Information</li>
+</ul>
+</li>
+<li>Title IX
+<ul>
+<li>Policy and Compliance</li>
+<li>Reporting and Resources</li>
+</ul>
+</li>
+<li>Unified Student Supports
+<ul>
+<li>Counseling and Social Emotional Learning</li>
+<li>Health and Wellness</li>
+<li>Homeless Education Services</li>
+<li>Student Discipline</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Enrollment &amp; Options
+<ul>
+<li>Enrolling In IPS</li>
+<li>Choice Proximity and Zone Maps</li>
+<li>Academic Options
+<ul>
+<li>Early Childhood Education</li>
+<li>Elementary Schools</li>
+<li>Middle Schools</li>
+<li>High Schools</li>
+<li>Alternative Education Programs</li>
+</ul>
+</li>
+<li>Tour our High School Options</li>
+<li>High Ability Program Eligibility</li>
+<li>High School &amp; GED Transcripts</li>
+</ul>
+</li>
+<li>Students &amp; Families
+<ul>
+<li>School Year Calendar</li>
+<li>Enroll in Free IPS Tutoring</li>
+<li>&iexcl;Inscr&iacute;base en tutor&iacute;a gratuita con IPS!</li>
+<li>Transportation
+<ul>
+<li>Bus Routes and Schedules</li>
+<li>Transportation Forms and Policies</li>
+</ul>
+</li>
+<li>Inclement Weather Policy</li>
+<li>Food Service
+<ul>
+<li>Menus and Meal Prices</li>
+<li>Free and Reduced Meal Applications</li>
+</ul>
+</li>
+<li>Uniforms
+<ul>
+<li>Dress Code and Guidelines</li>
+<li>Where to Purchase Uniforms</li>
+</ul>
+</li>
+<li>Health Services
+<ul>
+<li>Health Forms and Policies</li>
+<li>Medication Administration</li>
+<li>Health Resources</li>
+</ul>
+</li>
+<li>Student Technology
+<ul>
+<li>Technology Policies and Procedures</li>
+<li>Technology Support</li>
+</ul>
+</li>
+<li>Homelessness Assistance
+<ul>
+<li>Resources and Support</li>
+<li>Homeless Education Services</li>
+</ul>
+</li>
+<li>Student Code of Conduct
+<ul>
+<li>Rights and Responsibilities</li>
+<li>Discipline Policies and Procedures</li>
+</ul>
+</li>
+<li>Textbook and Educational Benefits Assistance
+<ul>
+<li>Book Rental Fees and Assistance</li>
+<li>Educational Benefits and Assistance Programs</li>
+</ul>
+</li>
+<li>Title I Parent Involvement Policy</li>
+<li>Pol&iacute;tica de Involucro de los Padres</li>
+</ul>
+</li>
+<li>Employment &amp; Staff
+<ul>
+<li>Employment Opportunities
+<ul>
+<li>Job Openings and Application</li>
+<li>Substitute Teaching</li>
+</ul>
+</li>
+<li>Benefits and Retirement</li>
+<li>Professional Development</li>
+<li>Human Resources Forms and Documents</li>
+<li>Staff Resources and Services</li>
+</ul>
+</li>
+<li>School Board
+<ul>
+<li>Board Overview</li>
+<li>March Board Meetings</li>
+<li>Work Session</li>
+</ul>
+</li>
+</ul>
 
-The following guidelines will be implemented as part of the Information & Media Retention Strategy:
+## All Schools - Full
+- About Us
+  - School History and Mission
+  - Staff List and Bios
+  - School Accountability Report Card
+- Student & Family Resources
+  - Enrollment Information and Forms
+  - School Supply List
+  - Student and Family Handbook
+  - Meal Menu and Nutrition Information
+  - Daily Calendar and School Schedule
+  - After-School Programs and Activities
+  - Health and Wellness Resources
+- Academic Programs
+  - Curriculum and Instruction
+  - Special Education Services and Resources
+  - English Learner Services and Resources
+  - Gifted and Talented Education Programs
+  - Library and Media Services
+  - Technology Resources and Support
+- District Resources
+  - Student Code of Conduct and Discipline Policies
+  - Transportation Information and Policies
+  - Uniforms and Dress Code
+  - Textbook and Other Educational Benefits Assistance
+  - School and District Policies and Procedures
+- Get Involved
+  - Volunteer With Us
+  - Parent-Teacher Association (PTA)
+  - School Site Council (SSC)
+  - Booster Clubs and Parent Organizations
+  - Community Partnerships and Outreach
 
-* All media and content on the website will be reviewed annually to determine its relevance and usefulness. Any media or content that is no longer relevant will be removed from the website.
+## Arts
+- Art Program
+  - Overview of the Art Program
+  - Course Offerings and Descriptions (Music, Theater, Dance, Visual Arts)
+  - Arts Facilities and Resources (Music rooms, Dance studios, Theater stages, Art rooms)
+  - Performance and Exhibition Opportunities (Concerts, Plays, Dance recitals, Art shows)
+  - Arts Faculty and Instructors (List of arts teachers and their qualifications)
+  - Arts Enrichment and Extension Programs (Summer camps, after-school programs)
+  - Arts Awards and Recognitions (Student and program awards)
 
-* Only media and content from the current school year and the previous school year will be stored on the website. All media and content from previous years will be removed, reducing the amount of backend space required.
+## Dual Language
+- Dual Language Program
+  - Overview of the Dual Language Program
+  - Program Goals and Objectives (Developing bilingualism and biliteracy)
+  - Dual Language Curriculum and Instruction
+  - Dual Language Faculty and Instructors (List of dual language teachers and their qualifications)
+  - Assessment and Evaluation of Dual Language Development
+  - Parent and Community Involvement (Opportunities for families to support dual language learning)
+  - Dual Language Enrichment and Extension Programs (Summer camps, after-school programs)
+  - Dual Language Awards and Recognitions (Student and program awards)
 
-* Site Editors will have the option to group and download their media at any time, ensuring that they can access their content within the retention timeframe, and store it in accordance with their own information archival strategies.
+## Environmental
+- Environmental Education Program
+  - Overview of the Environmental Education Program
+  - Program Goals and Objectives (Conservation, environmental issues, renewable energy sources)
+  - Environmental Curriculum and Instruction
+  - Environmental Faculty and Instructors (List of environmental education teachers and their qualifications)
+  - Assessment and Evaluation of Environmental Development
+  - Parent and Community Involvement (Opportunities for families to support environmental education)
+  - Environmental Enrichment and Extension Programs (Summer camps, after-school programs)
+  - Environmental Awards and Recognitions (Student and program awards)
 
-* In the event that a school is consolidated, its information and media will be migrated over following the previous and current school year pattern. This will ensure that important information is not lost during the consolidation process.
 
-By implementing these guidelines, we aim to reduce technical debt, improve website performance, and ensure that only current and relevant information is stored on the website.
+## Inquiry Based
+- Inquiry-Based Education Program
+  - Overview of the Inquiry-Based Education Program
+  - Program Goals and Objectives (Experiential learning, critical thinking)
+  - Inquiry-Based Curriculum and Instruction
+  - Inquiry-Based Faculty and Instructors (List of inquiry-based teachers and their qualifications)
+  - Assessment and Evaluation of Inquiry-Based Development
+  - Parent and Community Involvement (Opportunities for families to support inquiry-based education)
+  - Inquiry-Based Enrichment and Extension Programs (Summer camps, after-school programs)
+  - Inquiry-Based Awards and Recognitions (Student and program awards)
+
+
+## Montessori
+- Montessori Education Program
+  - Overview of the Montessori Education Program
+  - Program Goals and Objectives (Independence, self-directed learning, hands-on exploration)
+  - Montessori Curriculum and Instruction
+  - Montessori Faculty and Instructors (List of Montessori teachers and their qualifications)
+  - Assessment and Evaluation of Montessori Development
+  - Parent and Community Involvement (Opportunities for families to support Montessori education)
+  - Montessori Enrichment and Extension Programs (Summer camps, after-school programs)
+  - Montessori Awards and Recognitions (Student and program awards)
+
+
+## Paideai
+- Paideai Education Program
+  - Overview of the Paideai Education Program
+  - Program Goals and Objectives (Holistic, student-center, community involvement, experiential learning, individual development)
+  - Paideai Curriculum and Instruction
+  - Paideai Faculty and Instructors (List of Paideai teachers and their qualifications)
+  - Assessment and Evaluation of Paideai Development
+  - Parent and Community Involvement (Opportunities for families to support Paideai education)
+  - Paideai Enrichment and Extension Programs (Summer camps, after-school programs)
+  - Paideai Awards and Recognitions (Student and program awards)
+
+## Reggio
+- Reggio Education Program
+  - Overview of the Reggio Education Program
+  - Program Goals and Objectives (Student-center, project-based learning, creativity, critical thinking, collaboration)
+  - Reggio Curriculum and Instruction
+  - Reggio Faculty and Instructors (List of Reggio teachers and their qualifications)
+  - Assessment and Evaluation of Reggio Development
+  - Parent and Community Involvement (Opportunities for families to support Reggio education)
+  - Reggio Enrichment and Extension Programs (Summer camps, after-school programs)
+  - Reggio Awards and Recognitions (Student and program awards)
+
+## STEM
+- STEM Education Program
+  - Overview of the STEM Education Program
+  - Program Goals and Objectives (Science, technology, engineering, mathematics, college and career preparation)
+  - STEM Curriculum and Instruction
+  - STEM Faculty and Instructors (List of STEM teachers and their qualifications)
+  - Assessment and Evaluation of STEM Development
+  - Parent and Community Involvement (Opportunities for families to support STEM education)
+  - STEM Enrichment and Extension Programs (Summer camps, after-school programs, internships)
+  - STEM Awards and Recognitions (Student and program awards)
 # Necessary Technical Infrastructure
 
 ## Content Managment System
 WordPress is a versatile Content Management System (CMS) utilized by many due to its user-friendly interface and customization capabilities. Its popularity has led to the development of multisite features that allow users to manage multiple websites using a single installation of WordPress. IPS website employs WordPress as its CMS, providing users with an effortless way to create and publish content without needing extensive technical expertise.
+
 ## Required Plugins for CMS
 
 <table>
@@ -258,3 +561,18 @@ WordPress is a versatile Content Management System (CMS) utilized by many due to
 *   Knowledge Base for Documents and FAQs
     *   $249; one-time
     *   https://www.echoknowledgebase.com/bundle-pricing/
+
+## Information & Media Retention Strategy
+As part of our efforts to reduce technical debt and streamline our website infrastructure, we will be implementing an Information & Media Retention Strategy. The purpose of this strategy is to ensure that only current and relevant content is stored on the website, reducing the amount of backend space required and improving website performance.
+
+The following guidelines will be implemented as part of the Information & Media Retention Strategy:
+
+* All media and content on the website will be reviewed annually to determine its relevance and usefulness. Any media or content that is no longer relevant will be removed from the website.
+
+* Only media and content from the current school year and the previous school year will be stored on the website. All media and content from previous years will be removed, reducing the amount of backend space required.
+
+* Site Editors will have the option to group and download their media at any time, ensuring that they can access their content within the retention timeframe, and store it in accordance with their own information archival strategies.
+
+* In the event that a school is consolidated, its information and media will be migrated over following the previous and current school year pattern. This will ensure that important information is not lost during the consolidation process.
+
+By implementing these guidelines, we aim to reduce technical debt, improve website performance, and ensure that only current and relevant information is stored on the website.
