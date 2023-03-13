@@ -40,7 +40,15 @@ The district is undertaking a website rebuild project to enhance communication a
 
 ## District
 Serves as the central hub for information about the district, including news and events, academic programs, and administrative services. This site is an essential tool for students, parents, and educators to stay informed and engaged with the IPS community. Programs mentioned in the "Selective Recommendation Programs" section will be folded into the district site as well. 
-
+### Selective Recommendation Programs
+Programs are designed to meet the needs of specific groups of students, such as those with special needs or those seeking accelerated learning opportunities. Students are selected for these programs based on their academic abilities and interests, and are provided with tailored educational experiences to support their individual growth and development.
+*   Graduation Academy
+*   Newcomer Program @ Northwest Middle School
+*   Positive Supports Academy
+*   ROOTS Program
+*   Sidener Academy for High Ability Students
+*   Simon Youth Academy
+*   Step Ahead Academy
 ## Standard Models
 All participating schools will utilize one design model. Each learning model will share a standardized information architecture and website infrastructure.
 ### Arts
@@ -83,16 +91,6 @@ Follow the Montessori approach to education, emphasizing independence, self-dire
 ### Paideai
 Prioritize a holistic, student-centered approach to education. Emphasizing community involvement, experiential learning, and individual development, Paideai schools strive to create an environment that fosters lifelong learning and personal growth.
 *   Ernie Pyle School 90
-
-### Selective Recommendation Programs
-Programs are designed to meet the needs of specific groups of students, such as those with special needs or those seeking accelerated learning opportunities. Students are selected for these programs based on their academic abilities and interests, and are provided with tailored educational experiences to support their individual growth and development.
-*   Graduation Academy
-*   Newcomer Program @ Northwest Middle School
-*   Positive Supports Academy
-*   ROOTS Program
-*   Sidener Academy for High Ability Students
-*   Simon Youth Academy
-*   Step Ahead Academy
 
 ### Reggio
 Follow a student-centered, project-based learning model that fosters creativity, critical thinking, and collaboration. Students learn through exploration and self-directed activities, and teachers act as guides, observing and facilitating their learning.
@@ -191,7 +189,11 @@ The following guidelines will be implemented as part of the Information & Media 
 * In the event that a school is consolidated, its information and media will be migrated over following the previous and current school year pattern. This will ensure that important information is not lost during the consolidation process.
 
 By implementing these guidelines, we aim to reduce technical debt, improve website performance, and ensure that only current and relevant information is stored on the website.
-# Required WordPress Plugins 
+# Necessary Technical Infrastructure
+
+## Content Managment System
+WordPress is a versatile Content Management System (CMS) utilized by many due to its user-friendly interface and customization capabilities. Its popularity has led to the development of multisite features that allow users to manage multiple websites using a single installation of WordPress. IPS website employs WordPress as its CMS, providing users with an effortless way to create and publish content without needing extensive technical expertise.
+## Required Plugins for CMS
 
 <table>
 <tbody>
@@ -246,7 +248,7 @@ By implementing these guidelines, we aim to reduce technical debt, improve websi
 </tbody>
 </table>
 
-# Plugin Costs
+## Initial Plugin Costs
 *   FileBird
     *   $39; one-time
     *   https://codecanyon.net/item/media-folders-manager-for-wordpress/21715379
