@@ -36,7 +36,11 @@ The district is undertaking a website rebuild project to enhance communication a
 *   **Removal of External Requests**: All external requests and services such as Google Drive, Word Fence, Facebook feeds, and contact forms should be removed to improve security and eliminate the need for external authentication requests. 
 *   **Redirection Service**: The website infrastructure should have a redirection service in place to allow for the creation of short links and tracking of links for each website.
 
-# Website Categories
+# Planned Organizational Structure
+
+## District
+Serves as the central hub for information about the district, including news and events, academic programs, and administrative services. This site is an essential tool for students, parents, and educators to stay informed and engaged with the IPS community. Programs mentioned in the "Selective Recommendation Programs" section will be folded into the district site as well. 
+
 ## Standard Models
 All participating schools will utilize one design model. Each learning model will share a standardized information architecture and website infrastructure.
 ### Arts
@@ -170,7 +174,7 @@ Designed to provide students with unique educational experiences and specialized
 *   URBAN ACT Academy @ Washington Irving 14
 
 
-## Container Taxonomies
+## School Website Taxonomies
 (Fill IN)
 
 # Information & Media Retention Strategy
