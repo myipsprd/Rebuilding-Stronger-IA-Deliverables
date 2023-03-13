@@ -8,12 +8,12 @@ The district is undertaking a website rebuild project to enhance communication a
 </span> **March 8, 2023:** Begin developing technical and functional requirements, identifying necessary plugins and initial implementation costs.
 - <span style="color:red">&#10003;	
 </span> **March 15, 2023:** Develop website buckets, their descriptions and timeline of redisgn report creation.
-- **March 22, 2023:** Information architecture for each website bucket, including an information reduction strategy for older content and media.
+- **March 22, 2023:** Information architecture for each website bucket. Information and media retention strategy for older content and media.
 - **March 29, 2023:** Develop a training curriculum outline and identify necessary training requirements for staff members.
 - **April 5, 2023:** Begin considering design aspects for the website, including layout, color schemes, typography, and other visual elements.
 - **April 12, 2023:** Define design requirements for the website, including user interface (UI) and user experience (UX) design considerations.
 - **April 19, 2023:** Estimate a timeline for website implementation, aiming to initialize before the end of the school year and finalize by the first day of school.
-- **May 3, 2023:** Gather feedback from stakeholders and amend the plan as needed.
+- **May 3, 2023:** Gather feedback from stakeholders and amend the plan as needed. The goal is to rollup unforseen needs into the plan, not a a complete rework.
 - **May 10, 2023:** Finalize the report and begin executing the plan.
 
 # Technical & Functional Requirements 
@@ -36,45 +36,79 @@ The district is undertaking a website rebuild project to enhance communication a
 *   **Removal of External Requests**: All external requests and services such as Google Drive, Word Fence, Facebook feeds, and contact forms should be removed to improve security and eliminate the need for external authentication requests. 
 *   **Redirection Service**: The website infrastructure should have a redirection service in place to allow for the creation of short links and tracking of links for each website.
 
-# Website Containers
-## General Container Descriptions & Associated Schools
-## Arts
+# Website Categories
+## Standard Models
+All participating schools will utilize one design model. Each learning model will share a standardized information architecture and website infrastructure.
+### Arts
 Focuses on the arts and provides students with specialized education in music, theater, dance, and visual arts.
 
 *   Edison School of the Arts 47
 *   James Whitcomb Riley School 43
 
-## Career Themed Academies
-Career-themed academies with specialized programs provide focused education and training to prepare students for their future careers. These academies offer opportunities for students to gain practical skills and experience in their fields of interest.
-
-*   Arsenal Technical High School
-*   Crispus Attucks High School
-*   George Washington High School
-*   Shortridge High School
-
-## Recommended for Removal
-Schools that will no longer be serving the district due to changes around rebuilding stronger. These websites are recommended for complete removal from the websites. 
-
-*   Floro Torrence School 83
-*   Francis Bellamy School 102
-*   Francis W. Parker School 56
-*   George S. Buck School 94
-*   Paul I. Miller School 114
-*   Raymond F. Brandes School 65
-
-## Dual Language
+### Dual Language
 Provides specialized education for students who speak languages in addition to English. It aims to foster bilingualism and biliteracy, providing students with the opportunity to develop language skills in both their primary language and English.
 
 *   Theodore Potter School 74
 
-## Environmental
+### Environmental
 
 Showcases schools that focus on environmental education and sustainability. These schools provide specialized programs that teach students about environmental issues, conservation, and renewable energy sources.
 
 *   Cold Spring School
 
+
+### Inquiry Based 
+Emphasize experiential learning and critical thinking. Students learn through asking questions, exploring, and investigating.
+*   Broad Ripple Middle School
+*   Carl Wilde School 79
+*   Center for Inquiry School 2
+*   Center for Inquiry School 27
+*   Center for Inquiry School 70
+*   Center for Inquiry School 84
+*   George W. Julian School 57
+*   Henry W. Longfellow Medical/STEM Middle School 28
+*   Northwest Middle School
+
+### Montessori
+Follow the Montessori approach to education, emphasizing independence, self-directed learning, and hands-on exploration. Students are encouraged to learn at their own pace and in their own way, with teachers acting as facilitators and guides.
+*   Eleanor Skillen School 34
+*   George Washington Carver School 87
+*   James Russell Lowell School 51
+*   Rousseau McClellan School 91
+
+### Paideai
+Prioritize a holistic, student-centered approach to education. Emphasizing community involvement, experiential learning, and individual development, Paideai schools strive to create an environment that fosters lifelong learning and personal growth.
+*   Ernie Pyle School 90
+
+### Selective Recommendation Programs
+Programs are designed to meet the needs of specific groups of students, such as those with special needs or those seeking accelerated learning opportunities. Students are selected for these programs based on their academic abilities and interests, and are provided with tailored educational experiences to support their individual growth and development.
+*   Graduation Academy
+*   Newcomer Program @ Northwest Middle School
+*   Positive Supports Academy
+*   ROOTS Program
+*   Sidener Academy for High Ability Students
+*   Simon Youth Academy
+*   Step Ahead Academy
+
+### Reggio
+Follow a student-centered, project-based learning model that fosters creativity, critical thinking, and collaboration. Students learn through exploration and self-directed activities, and teachers act as guides, observing and facilitating their learning.
+*   IPS | Butler University Laboratory School 55
+*   IPS | Butler University Laboratory School 60
+
+### STEM
+Provide students with a strong foundation in science, technology, engineering, and mathematics, preparing them for college and careers in these fields. Students learn through hands-on, project-based activities and have opportunities to apply their learning through internships and other real-world experiences.
+*   Anna Brochhausen School 88
+*   Arlington Middle School
+*   Harshman Middle School
+*   James A. Garfield School 31
+*   Robert Lee Frost School 106
+*   William Penn School 49
+
 ## General Enrollment
 Designed to provide a well-rounded education to students from various backgrounds and prepare them for success in higher education or their future careers. They offer a diverse range of programs and extracurricular activities that cater to the interests and talents of all students.
+
+All participating schools will utilize one design model, sharing a standardized information architecture. Individual schools will not share website infrastructure. 
+
 *   Brookside School 54
 *   Charles Warren Fairbanks School 105
 *   Christian Park School 82
@@ -88,19 +122,28 @@ Designed to provide a well-rounded education to students from various background
 *   Ralph Waldo Emerson School 58
 *   William McKinley School 39
 
-## Inquiry Based 
-Emphasize experiential learning and critical thinking. Students learn through asking questions, exploring, and investigating.
-*   Broad Ripple Middle School
-*   Carl Wilde School 79
-*   Center for Inquiry School 2
-*   Center for Inquiry School 27
-*   Center for Inquiry School 70
-*   Center for Inquiry School 84
-*   George W. Julian School 57
-*   Henry W. Longfellow Medical/STEM Middle School 28
-*   Northwest Middle School
+## Career Themed Academies
+Career-themed academies with specialized programs provide focused education and training to prepare students for their future careers. These academies offer opportunities for students to gain practical skills and experience in their fields of interest.
 
-## Innovation Programs
+All participating schools will utilize one design model. Individual schools will not share information architecture or website infrastructure. 
+
+*   Arsenal Technical High School
+*   Crispus Attucks High School
+*   George Washington High School
+*   Shortridge High School
+  
+## Recommended for Removal
+Schools that will no longer be serving the district due to changes around rebuilding stronger. These websites are recommended for complete removal from the websites. 
+
+*   Floro Torrence School 83
+*   Francis Bellamy School 102
+*   Francis W. Parker School 56
+*   George S. Buck School 94
+*   Paul I. Miller School 114
+*   Raymond F. Brandes School 65
+
+
+## Non-participating Innovation Programs
 Designed to provide students with unique educational experiences and specialized skill development opportunities. These programs offer a high degree of autonomy to teachers and staff, allowing them to create and implement innovative curricula and teaching methods. <ins>**These websites are not being considered in this plan.**</ins>
 *   Avondale Meadows Middle School
 *   Christel House Schools @ Manual High School
@@ -126,42 +169,12 @@ Designed to provide students with unique educational experiences and specialized
 *   Thrival Indy Academy
 *   URBAN ACT Academy @ Washington Irving 14
 
-## Montessori
-Follow the Montessori approach to education, emphasizing independence, self-directed learning, and hands-on exploration. Students are encouraged to learn at their own pace and in their own way, with teachers acting as facilitators and guides.
-*   Eleanor Skillen School 34
-*   George Washington Carver School 87
-*   James Russell Lowell School 51
-*   Rousseau McClellan School 91
 
-## Paideai
-Prioritize a holistic, student-centered approach to education. Emphasizing community involvement, experiential learning, and individual development, Paideai schools strive to create an environment that fosters lifelong learning and personal growth.
-*   Ernie Pyle School 90
-
-## Selective Recommendation Programs
-Programs are designed to meet the needs of specific groups of students, such as those with special needs or those seeking accelerated learning opportunities. Students are selected for these programs based on their academic abilities and interests, and are provided with tailored educational experiences to support their individual growth and development.
-*   Graduation Academy
-*   Newcomer Program @ Northwest Middle School
-*   Positive Supports Academy
-*   ROOTS Program
-*   Sidener Academy for High Ability Students
-*   Simon Youth Academy
-*   Step Ahead Academy
-
-## Reggio
-Follow a student-centered, project-based learning model that fosters creativity, critical thinking, and collaboration. Students learn through exploration and self-directed activities, and teachers act as guides, observing and facilitating their learning.
-*   IPS | Butler University Laboratory School 55
-*   IPS | Butler University Laboratory School 60
-
-## STEM
-Provide students with a strong foundation in science, technology, engineering, and mathematics, preparing them for college and careers in these fields. Students learn through hands-on, project-based activities and have opportunities to apply their learning through internships and other real-world experiences.
-*   Anna Brochhausen School 88
-*   Arlington Middle School
-*   Harshman Middle School
-*   James A. Garfield School 31
-*   Robert Lee Frost School 106
-*   William Penn School 49
 ## Container Taxonomies
 (Fill IN)
+
+# Information & Media Retention Strategy
+
 # Required WordPress Plugins 
 
 <table>
