@@ -174,7 +174,19 @@ Designed to provide students with unique educational experiences and specialized
 (Fill IN)
 
 # Information & Media Retention Strategy
+As part of our efforts to reduce technical debt and streamline our website infrastructure, we will be implementing an Information & Media Retention Strategy. The purpose of this strategy is to ensure that only current and relevant content is stored on the website, reducing the amount of backend space required and improving website performance.
 
+The following guidelines will be implemented as part of the Information & Media Retention Strategy:
+
+* All media and content on the website will be reviewed annually to determine its relevance and usefulness. Any media or content that is no longer relevant will be removed from the website.
+
+* Only media and content from the current school year and the previous school year will be stored on the website. All media and content from previous years will be removed, reducing the amount of backend space required.
+
+* Site Editors will have the option to group and download their media at any time, ensuring that they can access their content within the retention timeframe, and store it in accordance with their own information archival strategies.
+
+* In the event that a school is consolidated, its information and media will be migrated over following the previous and current school year pattern. This will ensure that important information is not lost during the consolidation process.
+
+By implementing these guidelines, we aim to reduce technical debt, improve website performance, and ensure that only current and relevant information is stored on the website.
 # Required WordPress Plugins 
 
 <table>
