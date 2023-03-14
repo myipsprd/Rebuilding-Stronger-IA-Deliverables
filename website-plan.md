@@ -581,3 +581,60 @@ The following guidelines will be implemented as part of the Information & Media 
 * In the event that a school is consolidated, its information and media will be migrated over following the previous and current school year pattern. This will ensure that important information is not lost during the consolidation process.
 
 By implementing these guidelines, we aim to reduce technical debt, improve website performance, and ensure that only current and relevant information is stored on the website.
+
+# Training Requirements
+## Training for Basic Site Editors
+
+### File Management
+
+1. Grouping and downloading files with FileBird
+2. Using the Media Manager
+
+### Site Navigation
+
+1. Working with navigation menus
+2. Using Redirection for redirects and short URLs
+
+### Calendar and Event Management
+
+1. Using ICS Calendar for calendar feeds
+
+### Content Creation and Editing
+
+1. Working with TablePress
+2. Using the Block Editor
+3. Utilizing Block Patterns
+4. Creating and editing posts
+5. Editing non-moderated content
+6. Using the Knowledge Base for documents and FAQs
+7. Utilizing the Documentation Service
+
+### Advanced Blocks and Features
+
+1. Kadence Blocks for advanced block support
+2. Accessing and managing Let's Talk
+
+## Training for Administrators
+
+### Multisite Management
+
+1. Overview of multisite environment
+2. Administering users and roles
+3. Network updates and upgrades
+
+### Code Editing and Customization
+
+1. Using Code Snippets for editing and adding custom code
+2. Working with Smart Slider 3
+
+### Site Configuration
+
+1. Tools and settings overview
+2. Embedding Let's Talk on the website
+
+### Security and Maintenance
+
+1. Common security concerns
+2. SiteGround infrastructure, caching, and security
+3. Managing the Knowledge Base for documents and FAQs
+4. Importance of backups and updates
