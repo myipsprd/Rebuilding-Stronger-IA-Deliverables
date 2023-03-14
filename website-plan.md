@@ -10,7 +10,8 @@ The district is undertaking a website rebuild project to enhance communication a
 </span> **March 15, 2023:** Develop website buckets, their descriptions and timeline of redesign report creation.
 - <span style="color:red">&#10003;	
 </span> **March 22, 2023:** Information architecture for each website bucket. Information and media retention strategy for older content and media.
-- **March 29, 2023:** Develop a training curriculum outline and identify necessary training requirements for staff members.
+- <span style="color:red">&#10003;	
+</span> **March 29, 2023:** Develop a training curriculum outline and identify necessary training requirements for staff members.
 - **April 5, 2023:** Begin considering design aspects for the website, including layout, color schemes, typography, and other visual elements.
 - **April 12, 2023:** Define design requirements for the website, including user interface (UI) and user experience (UX) design considerations.
 - **April 19, 2023:** Estimate a timeline for website implementation, aiming to initialize before the end of the school year and finalize by the first day of school.
