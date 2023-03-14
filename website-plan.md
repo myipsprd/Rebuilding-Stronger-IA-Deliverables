@@ -7,7 +7,7 @@ The district is undertaking a website rebuild project to enhance communication a
 - <span style="color:red">&#10003;	
 </span> **March 8, 2023:** Begin developing technical and functional requirements, identifying necessary plugins and initial implementation costs.
 - <span style="color:red">&#10003;	
-</span> **March 15, 2023:** Develop website buckets, their descriptions and timeline of redisgn report creation.
+</span> **March 15, 2023:** Develop website buckets, their descriptions and timeline of redesign report creation.
 - <span style="color:red">&#10003;	
 </span> **March 22, 2023:** Information architecture for each website bucket. Information and media retention strategy for older content and media.
 - **March 29, 2023:** Develop a training curriculum outline and identify necessary training requirements for staff members.
@@ -492,7 +492,8 @@ Designed to provide students with unique educational experiences and specialized
   - STEM Enrichment and Extension Programs (Summer camps, after-school programs, internships)
   - STEM Awards and Recognitions (Student and program awards)
 # Necessary Technical Infrastructure
-
+## Sending Messaging from Website
+The website will be shifting away from SMTP authentication to send messages via the ipswebmaster@myips.org email. As a result, it will be necessary to collaborate with the Information Technology department to whitelist emails originating from the website's IP address. This will enable the website to send crucial messages like reports, password resets, and other communications. Going forward, the website will be using WordPress's built-in email function to send emails.
 ## Content Managment System
 WordPress is a versatile Content Management System (CMS) utilized by many due to its user-friendly interface and customization capabilities. Its popularity has led to the development of multisite features that allow users to manage multiple websites using a single installation of WordPress. IPS website employs WordPress as its CMS, providing users with an effortless way to create and publish content without needing extensive technical expertise.
 
@@ -507,6 +508,10 @@ WordPress is a versatile Content Management System (CMS) utilized by many due to
 <tr>
 <td>Code Snippets&nbsp;</td>
 <td>An easy, clean and simple way to run code snippets on your site. No need to edit your theme's functions.php file again!&nbsp;</td>
+</tr>
+<tr>
+<td>Custom Post Types UI&nbsp;</td>
+<td>Turn your Google Calendar, Microsoft Office 365 or Apple iCloud Calendar into a seamlessly integrated, auto-updating, zero-maintenance WordPress experience.&nbsp;</td>
 </tr>
 <tr>
 <td>FileBird Lite&nbsp;</td>
