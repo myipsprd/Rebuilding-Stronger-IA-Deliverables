@@ -36,6 +36,8 @@ The district is undertaking a website rebuild project to enhance communication a
 *   **Integration with Let's Talk**: The website should heavily leverage the Let's Talk system whenever possible to streamline communication and feedback from users with district and school staff. 
 *   **Removal of External Requests**: All external requests and services such as Google Drive, Word Fence, Facebook feeds, and contact forms should be removed to improve security and eliminate the need for external authentication requests. 
 *   **Redirection Service**: The website infrastructure should have a redirection service in place to allow for the creation of short links and tracking of links for each website.
+# Visual Layout
+(Drafting content)
 
 # Planned Organizational Structure
 
@@ -173,7 +175,7 @@ Designed to provide students with unique educational experiences and specialized
 *   URBAN ACT Academy @ Washington Irving 14
 
 
-# Organizational Structure Taxonomies
+# Navigation Standards
 
 ## District – Full
 <ul>
@@ -493,7 +495,7 @@ Designed to provide students with unique educational experiences and specialized
   - STEM Awards and Recognitions (Student and program awards)
 # Necessary Technical Infrastructure
 ## Sending Messaging from Website
-The website will be shifting away from SMTP authentication to send messages via the ipswebmaster@myips.org email. As a result, it will be necessary to collaborate with the Information Technology department to whitelist emails originating from the website's IP address. This will enable the website to send crucial messages like reports, password resets, and other communications. Going forward, the website will be using WordPress's built-in email function to send emails.
+The website will be shifting away from SMTP authentication to send emails. As a result, it will be necessary to collaborate with the Information Technology department to whitelist emails originating from the website's IP address. This will enable the website to send crucial messages like reports, password resets, and other communications. Going forward, the website will be using WordPress's built-in email function to send emails.
 ## Content Managment System
 WordPress is a versatile Content Management System (CMS) utilized by many due to its user-friendly interface and customization capabilities. Its popularity has led to the development of multisite features that allow users to manage multiple websites using a single installation of WordPress. IPS website employs WordPress as its CMS, providing users with an effortless way to create and publish content without needing extensive technical expertise.
 
@@ -566,7 +568,12 @@ WordPress is a versatile Content Management System (CMS) utilized by many due to
 *   Knowledge Base for Documents and FAQs
     *   $249; one-time
     *   https://www.echoknowledgebase.com/bundle-pricing/
-
+## CMS Theme
+* Astra
+  * Free; paid available, but not necessary.
+  * https://wordpress.org/themes/astra/
+  * Allows for some customization, but not overwhelming.
+  * Supports ease of reading and print friendly.
 ## Information & Media Retention Strategy
 As part of our efforts to reduce technical debt and streamline our website infrastructure, we will be implementing an Information & Media Retention Strategy. The purpose of this strategy is to ensure that only current and relevant content is stored on the website, reducing the amount of backend space required and improving website performance.
 
