@@ -37,6 +37,65 @@ The district is undertaking a website rebuild project to enhance communication a
 *   **Integration with Let's Talk**: The website should heavily leverage the Let's Talk system whenever possible to streamline communication and feedback from users with district and school staff. 
 *   **Removal of External Requests**: All external requests and services such as Google Drive, Word Fence, Facebook feeds, and contact forms should be removed to improve security and eliminate the need for external authentication requests. 
 *   **Redirection Service**: The website infrastructure should have a redirection service in place to allow for the creation of short links and tracking of links for each website.
+# Timeline Estimate for Website Redesign
+
+To successfully implement the website redesign plan between May 1, 2023, and June 30, 2023, a well-structured timeline is crucial. The timeline should outline key milestones and allocate sufficient time for each phase of the project. Here is a suggested timeline for the website redesign:
+
+## May 1-7, 2023: Project Kickoff
+
+* Assemble the project team
+
+* Conduct a project kickoff meeting to discuss objectives, roles, and responsibilities
+
+* Review the existing website and gather initial feedback
+
+## May 8-21, 2023: Planning and Content Development
+
+* Develop a sitemap and wireframes for the new website
+
+* Identify content to be updated, created, or removed
+
+* Assign content creation and editing tasks to team members
+
+## May 22-31, 2023: Design and Development
+
+* Create design mockups based on the wireframes and the approved visual layout
+
+* Obtain feedback and finalize the design
+
+* Begin website development using the finalized design
+
+## June 1-15, 2023: Content Integration and Testing
+
+* Populate the new website with content (text, images, videos, etc.)
+
+* Test the website on various devices and browsers for compatibility
+
+* Address any technical or content-related issues
+
+## June 16-23, 2023: User Acceptance Testing and Training
+
+* Conduct user acceptance testing with a group of stakeholders
+
+* Gather feedback and implement necessary changes
+
+* Train designated school staff on website management and updating
+
+## June 24-29, 2023: Final Review and Launch Preparation
+
+* Conduct a final review of the website to ensure all requirements are met
+
+* Prepare the website for launch (e.g., set up domain and hosting, create backups, etc.)
+
+## June 30, 2023: Website Launch
+
+* Make the new website live
+
+* Monitor the website for any issues and address them promptly
+
+* Announce the website launch through various communication channels
+
+By adhering to this timeline, the website redesign project should be completed successfully within the designated timeframe, ensuring a smooth transition and a user-friendly experience for all stakeholders.
 # Visual Layout
 ## School, Program and Model
 The website's visual layout has been meticulously designed to reflect the school's identity and provide a consistent user experience across all devices. A collaboration between our team and VOX has led to the creation of a homepage that embodies the school's spirit and showcases vital information in an organized manner.
