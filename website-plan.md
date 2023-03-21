@@ -14,8 +14,9 @@ The district is undertaking a website rebuild project to enhance communication a
 </span> **March 29, 2023:** Develop a training curriculum outline and identify necessary training requirements for staff members.
 - <span style="color:red">&#10003;	
 </span> **April 5, 2023:** Define overall aesthetics and user experience for the website redesign.
-- **April 12, 2023:** Estimate a timeline for website implementation, aiming to initialize before the end of the school year and finalize by the first day of school.
-- **April 26, 2023:** Gather feedback from stakeholders and amend the plan as needed. The goal is to rollup unforseen needs into the plan, not a a complete rework.
+- <span style="color:red">&#10003;	
+</span>**April 12, 2023:** Estimate a timeline for website implementation, aiming to initialize before the end of the school year and finalize by the first day of school.
+- **April 26, 2023:** Gather feedback from stakeholders and amend the plan as needed. The goal is to rollup unforseen needs into the plan, not a complete rework.
 - **May 3, 2023:** Finalize the report and begin executing the plan.
 
 # Technical & Functional Requirements 
