@@ -12,7 +12,8 @@ The district is undertaking a website rebuild project to enhance communication a
 </span> **March 22, 2023:** Information architecture for each website bucket. Information and media retention strategy for older content and media.
 - <span style="color:red">&#10003;	
 </span> **March 29, 2023:** Develop a training curriculum outline and identify necessary training requirements for staff members.
-- **April 5, 2023:** Define overall aesthetics and user experience for the website redesign.
+- <span style="color:red">&#10003;	
+</span> **April 5, 2023:** Define overall aesthetics and user experience for the website redesign.
 - **April 12, 2023:** Estimate a timeline for website implementation, aiming to initialize before the end of the school year and finalize by the first day of school.
 - **April 26, 2023:** Gather feedback from stakeholders and amend the plan as needed. The goal is to rollup unforseen needs into the plan, not a a complete rework.
 - **May 3, 2023:** Finalize the report and begin executing the plan.
@@ -37,8 +38,42 @@ The district is undertaking a website rebuild project to enhance communication a
 *   **Removal of External Requests**: All external requests and services such as Google Drive, Word Fence, Facebook feeds, and contact forms should be removed to improve security and eliminate the need for external authentication requests. 
 *   **Redirection Service**: The website infrastructure should have a redirection service in place to allow for the creation of short links and tracking of links for each website.
 # Visual Layout
-(Drafting content)
+## School, Program and Model
+The website's visual layout has been meticulously designed to reflect the school's identity and provide a consistent user experience across all devices. A collaboration between our team and VOX has led to the creation of a homepage that embodies the school's spirit and showcases vital information in an organized manner.
 
+* Homepage:
+  * The school colors are prominently featured throughout the website, creating a strong visual connection to the school's identity. For program websites with multiple buildings, a dedicated section below the news segment displays the logo, building information, and a link to a school-specific page on that program website.
+
+* Header:
+  * The header consists of the school logo on the left with the title adjacent to it. On the opposite end, a cyclic button opens the navigation menu, ensuring a clean and consistent interface across all devices.
+
+* Hero Image:
+  * The hero image incorporates a block on the left containing the page title and a brief description, accentuated by a color bar featuring the school colors.
+
+* Welcome Section:
+  * Following the hero image is a welcome heading, a brief introduction to the school, and a ribbon-like design showcasing three key facts about the school.
+
+* Latest School News:
+  * This section presents the six most recent news stories, complete with a title and featured image (if available). A button below the news stories directs users to a blog post page containing all news items.
+
+* Special Highlight:
+  * Another hero image highlights a unique aspect of the school, such as a special food pantry, academic option, or historical fact. This image links to a dedicated page with more information.
+* Footer:
+  * The footer displays the school's name, address, student hours, office hours, and social media links, all of which are editable by the school. Additionally, prominent text about website accessibility and Title IX reporting ensures compliance with federal law requirements.
+## District Homepage
+
+The district homepage shares a cohesive visual layout with the school websites, maintaining a consistent design language throughout the district's online presence. The district homepage boasts additional elements that cater to a broader audience, providing essential information and resources for the entire district.
+
+* Video Elements:
+  * Incorporating video content on the district homepage engages visitors and effectively communicates important messages. Videos can showcase district-wide initiatives, highlight success stories, and provide updates on current events.
+
+* Icon Quicklinks:
+  * A set of easily identifiable icon quicklinks offers users convenient access to essential resources and frequently visited pages. These may include online portals, school directories, district calendars, and contact information for key district personnel.
+
+* Strategic Plan Focus:
+  * The special highlight section on the district homepage emphasizes the district's strategic plan, showcasing its vision, mission, and core values. This section can feature a combination of text, images, and videos that convey the district's commitment to fostering academic excellence and supporting student growth.
+
+By integrating these additional components into the district homepage, the website offers a comprehensive and engaging platform that caters to the diverse needs of the district's community members. The cohesive design language and consistent layout ensure a seamless user experience while effectively showcasing the district's initiatives and priorities.
 # Planned Organizational Structure
 
 ## District
