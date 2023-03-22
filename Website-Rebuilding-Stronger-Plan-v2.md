@@ -1,10 +1,10 @@
 # Introduction
 
-Welcome to the Website Redesign Plan for Indianapolis Public Schools (IPS). This comprehensive document outlines the strategy and steps necessary to successfully rebuild the websites for our school district, programs, academic model and their schools, and individual open enrollment schools. Our primary focus will be to create a user-friendly, accessible, and informative online experience for all stakeholders.
+This document outlines the strategy and steps necessary to successfully rebuild the websites for our school district, academic model specific collection of schools, and individual open enrollment schools. Our primary focus will be to create a user-friendly, accessible, and informative online experience for all stakeholders. This is applying initial research and recommendations provided by VOX for our high school academic programs to all aspects of the website brand.
 
 ## Background and Purpose
 
-Indianapolis Public Schools recognizes the critical role that its online presence plays in communicating with and engaging parents, students, teachers, and community members. The current IPS websites, while functional, have become outdated and do not meet the evolving needs of our diverse community. By rebuilding and modernizing these websites, we aim to better serve our users and reflect the high standards of education and inclusivity that IPS upholds.
+Indianapolis Public Schools recognizes the critical role that its online presence plays in communicating with and engaging parents, students, teachers, and community members. The current IPS websites, while functional, has areas that can be improved. By rebuilding, simplifying and modernizing our websites, we aim to better serve our users and reflect the high standards of education and inclusivity that IPS upholds.
 
 ## Objectives and Goals for the Redesign
 
@@ -13,16 +13,9 @@ The primary objectives and goals for the IPS website redesign project are as fol
 1.  **Improve User Experience**: Create an intuitive, easy-to-navigate, and visually appealing online experience for all users, with a focus on mobile devices.
 2.  **Enhance Accessibility and Inclusivity**: Ensure that the websites meet accessibility guidelines and provide an inclusive experience for all users, regardless of ability or language.
 3.  **Streamline Content Strategy**: Develop a clear and consistent content strategy that effectively communicates important information and updates to stakeholders.
-4.  **Optimize for Search Engines**: Increase the visibility of IPS websites in search engine results through the implementation of SEO best practices.
-5.  **Measure Success with Analytics**: Utilize analytics tools to track website performance and make data-driven decisions for ongoing improvement.
-6.  **Ensure Smooth Implementation and Launch**: Successfully complete the redesign project within the specified timeline and with minimal disruption to stakeholders.
-7.  **Provide Ongoing Maintenance and Support**: Keep the websites updated and secure, while also offering training and resources for IPS staff.
-
-### Aligning with IPS Vision and Values
-
-The website redesign project will be guided by the core values and vision of Indianapolis Public Schools, ensuring that our online presence embodies the principles that define our district. These values include equity, engagement, collaboration, adaptability, and excellence.
-
-By aligning the website redesign with these guiding principles, we aim to create a cohesive and authentic representation of IPS that fosters trust and pride among our stakeholders.
+4.  **Measure Success with Analytics**: Utilize analytics tools to track website performance and make data-driven decisions for ongoing improvement.
+5.  **Ensure Smooth Implementation and Launch**: Successfully complete the redesign project within the specified timeline and with minimal disruption to stakeholders.
+6.  **Provide Ongoing Maintenance and Support**: Keep the websites updated and secure, while also offering training and resources for IPS staff.
 
 # Engaging Stakeholders
 
@@ -45,24 +38,16 @@ To gather feedback and input from our diverse stakeholders, we will use various 
 1.  **Surveys and questionnaires**: Distribute online surveys to collect feedback on website features, design, and content priorities from all stakeholder groups.
 2.  **Focus groups**: Conduct focus group discussions with representatives from key participant groups to delve deeper into their specific needs and preferences.
 3.  **User testing**: Involve stakeholders in the testing process, allowing them to interact with the redesigned websites and provide feedback on their user experience.
-4.  **Open forums**: Host public meetings 
-
-    and online discussion sessions, inviting stakeholders to share their thoughts and ideas on the website redesign process.
+4.  **Open forums**: Host public online discussion sessions, inviting stakeholders to share their thoughts and ideas on the website redesign process.
 
 ## Keeping Everyone Informed and Involved
 
 To maintain stakeholder engagement and build trust throughout the redesign process, we will implement a transparent and consistent communication strategy. This may include:
 
-1.  **Progress updates**: Share regular updates on the project's status, milestones achieved, and upcoming activities through various channels, such as email newsletters, social media, and the IPS website.
+1.  **Progress updates**: Share regular updates on the project's status, milestones achieved, and upcoming activities through various channels, such as the IPS website and public GitHub plan site.
 2.  **Feedback loops**: Encourage open lines of communication, allowing stakeholders to provide input, ask questions, and voice concerns at any stage of the project.
 3.  **Design previews**: Offer sneak peeks of the new websites' design, layout, and features, soliciting feedback and suggestions for improvements before the final launch.
 4.  **Collaborative decision-making**: Involve key participants in major decisions related to design, content, and functionality, ensuring that the final product reflects the needs and priorities of the entire IPS community.
-
-### Establishing a Stakeholder Engagement Team
-
-To facilitate stakeholder engagement throughout the redesign process, we will establish a dedicated Stakeholder Engagement Team. This team will be responsible for coordinating all communication efforts, gathering and analyzing input from stakeholders, and ensuring that their feedback is effectively incorporated into the project.
-
-By prioritizing stakeholder engagement, we can create a strong foundation for the successful redesign and launch of the new Indianapolis Public Schools websites, ensuring that they meet the diverse needs of our students, staff, and community members.
 
 # Designing for Accessibility and Inclusivity
 
@@ -100,7 +85,7 @@ By prioritizing accessibility, inclusivity, and language support in the website 
 
 ## Adopting a User-Centered Approach
 
-A user-centered approach prioritizes the needs and preferences of the website users, ensuring a seamless and enjoyable experience. To adopt this approach, we will:
+A user-centered approach prioritizes the needs and preferences of the website users, ensuring a seamless and enjoyable experience. Most of this To adopt this approach, we will:
 
 1.  Conduct user research: Gather insights from students, parents, teachers, and administrators to understand their needs, preferences, and pain points.
 2.  Develop user personas: Create fictional representations of the target user groups to guide design decisions.
@@ -171,46 +156,100 @@ Visual and multimedia elements play a crucial role in enhancing user engagement 
 
 ## Plugins and Integrations
 
-To enhance website functionality and streamline content management, the following plugins and integrations will be considered:
+## Sending Messaging from Website
+The website will be shifting away from SMTP authentication to send emails. As a result, it will be necessary to collaborate with the Information Technology department to whitelist emails originating from the website's IP address. This will enable the website to send crucial messages like reports, password resets, and other communications. Going forward, the website will be using WordPress's built-in email function to send emails.
+## Content Managment System
+WordPress is a versatile Content Management System (CMS) utilized by many due to its user-friendly interface and customization capabilities. Its popularity has led to the development of multisite features that allow users to manage multiple websites using a single installation of WordPress. IPS website employs WordPress as its CMS, providing users with an effortless way to create and publish content without needing extensive technical expertise.
 
-1.  SEO tools: Implement plugins that assist with optimizing content for search engines, such as Yoast SEO or All in One SEO Pack.
-2.  Social media sharing: Enable easy sharing of content on social media platforms using tools like AddThis or ShareThis.
-3.  Forms and surveys: Collect user feedback, inquiries, and other information using form builders like Gravity Forms or WPForms.
-4.  Analytics: Integrate Google Analytics or other analytics tools to track website performance and user behavior.
+## Required Plugins for CMS
 
-By carefully considering and implementing these content strategy and development practices, we can create a comprehensive, engaging, and accessible web experience for all users while ensuring that the websites align with Indianapolis Public Schools' goals and objectives.
+<table>
+<tbody>
+<tr>
+<td>Plugin</td>
+<td>Description</td>
+</tr>
+<tr>
+<td>Code Snippets&nbsp;</td>
+<td>An easy, clean and simple way to run code snippets on your site. No need to edit your theme's functions.php file again!&nbsp;</td>
+</tr>
+<tr>
+<td>Custom Post Types UI&nbsp;</td>
+<td>Turn your Google Calendar, Microsoft Office 365 or Apple iCloud Calendar into a seamlessly integrated, auto-updating, zero-maintenance WordPress experience.&nbsp;</td>
+</tr>
+<tr>
+<td>FileBird Lite&nbsp;</td>
+<td>Organize thousands of WordPress media files into folders/ categories at ease.&nbsp;</td>
+</tr>
+<tr>
+<td>GTranslate</td>
+<td>Translate your website and make it multilingual. For support visit GTranslate Support Forum.&nbsp;</td>
+</tr>
+<tr>
+<td>ICS Calendar&nbsp;</td>
+<td>Turn your Google Calendar, Microsoft Office 365 or Apple iCloud Calendar into a seamlessly integrated, auto-updating, zero-maintenance WordPress experience.&nbsp;</td>
+</tr>
+<tr>
+<td>Kadence Blocks &ndash; Gutenberg Blocks for Page Builder Features</td>
+<td>Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc.&nbsp;</td>
+</tr>
+<tr>
+<td>Knowledge Base for Documents and FAQs</td>
+<td>Create Echo Knowledge Base articles, docs and FAQs.&nbsp;</td>
+</tr>
+<tr>
+<td>Redirection&nbsp;</td>
+<td>Manage all your 301 redirects and monitor 404 errors&nbsp;</td>
+</tr>
+<tr>
+<td>SiteGround Optimizer&nbsp;</td>
+<td>This plugin will link your WordPress application with all the performance optimizations provided by SiteGround&nbsp;</td>
+</tr>
+<tr>
+<td>SiteGround Security</td>
+<td>SiteGround Security is the all-in-one security solution for your WordPress website. Protect login &amp; limit login attempts. User activity log. Lock system folders &amp; more.&nbsp;</td>
+</tr>
+<tr>
+<td>Smart Slider 3&nbsp;</td>
+<td>The perfect all-in-one responsive slider solution for WordPress.</td>
+</tr>
+<tr>
+<td>TablePress</td>
+<td>Embed beautiful and feature-rich tables into your posts and pages, without having to write code.&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
-# Boosting Visibility with Search Engine Optimization
+## Initial Plugin Costs
+*   FileBird
+    *   $39; one-time
+    *   https://codecanyon.net/item/media-folders-manager-for-wordpress/21715379
+*   SmartSlider 3
+    *   $49; one-time
+    *   https://smartslider3.com/pricing/
+*   Knowledge Base for Documents and FAQs
+    *   $249; one-time
+    *   https://www.echoknowledgebase.com/bundle-pricing/
+## CMS Theme
+* Astra
+  * Free; paid available, but not necessary.
+  * https://wordpress.org/themes/astra/
+  * Allows for some customization, but not overwhelming.
+  * Supports ease of reading and print friendly.
+## Information & Media Retention Strategy
+As part of our efforts to reduce technical debt and streamline our website infrastructure, we will be implementing an Information & Media Retention Strategy. The purpose of this strategy is to ensure that only current and relevant content is stored on the website, reducing the amount of backend space required and improving website performance.
 
-## Developing an SEO Strategy
+The following guidelines will be implemented as part of the Information & Media Retention Strategy:
 
-To increase the visibility of Indianapolis Public Schools' websites on search engines, a comprehensive SEO strategy will be developed. The strategy will focus on the following key components:
+* All media and content on the website will be reviewed annually to determine its relevance and usefulness. Any media or content that is no longer relevant will be removed from the website.
 
-1.  Keyword research: Identify relevant keywords and phrases that target audiences are likely to use when searching for information related to the school district, programs, and schools.
-2.  On-page optimization: Ensure that all website content is optimized for the identified keywords, including titles, headings, meta descriptions, and image alt tags.
-3.  Technical SEO: Address any technical issues that may hinder search engine crawling and indexing, such as broken links, duplicate content, or slow page load times.
-4.  Off-page optimization: Develop a plan for building high-quality backlinks, social media engagement, and local SEO tactics to improve the websites' authority and visibility.
+* Only media and content from the current school year and the previous school year will be stored on the website. All media and content from previous years will be removed, reducing the amount of backend space required.
 
-## Implementing SEO Best Practices
+* Site Editors will have the option to group and download their media at any time, ensuring that they can access their content within the retention timeframe, and store it in accordance with their own information archival strategies.
 
-To optimize the websites for search engines, the following best practices will be implemented:
+* In the event that a school is consolidated, its information and media will be migrated over following the previous and current school year pattern. This will ensure that important information is not lost during the consolidation process.
 
-1.  Create high-quality, relevant content: Develop engaging, informative, and well-structured content that addresses users' needs and includes appropriate keyword usage.
-2.  Optimize site architecture: Ensure that the websites have a clear, logical structure that makes it easy for search engines to crawl and index content.
-3.  Improve site speed: Optimize images, minify CSS and JavaScript files, and leverage browser caching to enhance page load times.
-4.  Use descriptive URLs and title tags: Make sure that URLs and title tags accurately describe the content on each page and include relevant keywords.
-5.  Utilize header tags and internal linking: Use header tags (H1, H2, H3) to structure content and create meaningful internal links that guide users to related content within the websites.
-
-## Ongoing SEO Monitoring and Improvements
-
-Continuous monitoring and improvement of the websites' SEO performance will be carried out using the following methods:
-
-1.  Track keyword rankings: Monitor the websites' rankings for targeted keywords and adjust the SEO strategy as needed to improve visibility.
-2.  Analyze site traffic and user behavior: Use analytics tools to understand how users are engaging with the websites and identify areas for improvement.
-3.  Conduct regular site audits: Periodically review the websites for technical issues, content gaps, or other factors that may negatively impact SEO performance.
-4.  Stay informed about SEO trends and updates: Keep abreast of changes in search engine algorithms and industry best practices to ensure that the websites remain optimized over time.
-
-By developing and implementing a robust SEO strategy and adhering to best practices, the websites for Indianapolis Public Schools will be better positioned to attract and serve their target audiences. The ongoing monitoring and improvement efforts will ensure that the websites continue to perform well and adapt to the ever-evolving search landscape.
+By implementing these guidelines, we aim to reduce technical debt, improve website performance, and ensure that only current and relevant information is stored on the website.
 
 # Measuring Success with Analytics
 
@@ -227,7 +266,6 @@ To measure the success of the website redesign, we will establish a set of key p
 *   Number of unique visitors
 *   Bounce rate
 *   Average session duration
-*   Conversion rate (e.g., form submissions, newsletter sign-ups, etc.)
 *   Search engine rankings for target keywords
 *   Page load times
 *   Mobile and desktop user experiences
