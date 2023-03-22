@@ -1,3 +1,24 @@
+<style>
+
+h1, h2, h3, h4{
+  color: #2e74b5;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-family: "Calibri";
+    font-style: normal;
+}
+
+p{
+      padding-top: 8pt;
+    padding-bottom: 8pt;
+    line-height: 1.2;
+    text-align: left;
+}
+li {
+  margin-left: 10pt;
+}
+</style>
 # Enhanced Communication: Rebuilding Stronger Website Redesign
 
 The district is embarking on a website redesign project to elevate communication and deliver a superior user experience for staff, parents, and students that aligns with Rebuilding Stronger's academic evolution. This document highlights the essential technical & functional requirements and plugins needed for the project.
@@ -14,7 +35,7 @@ The district is embarking on a website redesign project to elevate communication
 *   **Program-based Design Approach**: Websites should adopt a program-based approach, modeling the upcoming Rebuilding Stronger initiative, instead of individual school websites, ensuring information consistency. Schools without a program will maintain their unique site. 
 *   **Content Approval Mechanism**: Implement a content approval mechanism to ensure all content is vetted and approved before non-administrator users publish it on the website. 
 *   **Language Translation**: Include a language translation feature to cater to non-English speaking users. The translation feature should support popular languages and be user-friendly. 
-*   **Improved Calendar System**: Support an advanced calendar system that integrates with multiple vendors for seamless scheduling and event management. 
+*   **Improved Calendar System**: Support an advanced calendar system that integrates with multiple vendors for seamless scheduling and event management.
 *   **Staff Custom Post Type**: Enable the creation of custom post types for staff members to create and manage their staff pages. 
 *   **Block Management System**: A tightly regulated block management system is necessary to prevent users from being overwhelmed by numerous block choices available in the block editor. 
 *   **Page Builder System**: A powerful page builder system that allows experienced users to create diverse content layouts without custom code. The system should support templating for content reuse in multiple locations and integrate with the native block editor system for long-term support. 
@@ -29,55 +50,42 @@ To successfully implement the website redesign plan between May 1, 2023, and Jun
 ## May 1-7, 2023: Project Kickoff
 
 * Assemble the project team
-
 * Conduct a project kickoff meeting to discuss objectives, roles, and responsibilities
-
 * Review the existing website and gather initial feedback
 
 ## May 8-21, 2023: Planning and Content Development
 
 * Develop a sitemap and wireframes for the new website
-
 * Identify content to be updated, created, or removed
-
 * Assign content creation and editing tasks to team members
 
 ## May 22-31, 2023: Design and Development
 
 * Create design mockups based on the wireframes and the approved visual layout
-
 * Obtain feedback and finalize the design
-
 * Begin website development using the finalized design
 
 ## June 1-15, 2023: Content Integration and Testing
 
 * Populate the new website with content (text, images, videos, etc.)
-
 * Test the website on various devices and browsers for compatibility
-
 * Address any technical or content-related issues
 
 ## June 16-23, 2023: User Acceptance Testing and Training
 
 * Conduct user acceptance testing with a group of stakeholders
-
 * Gather feedback and implement necessary changes
-
 * Train designated school staff on website management and updating
 
 ## June 24-29, 2023: Final Review and Launch Preparation
 
 * Conduct a final review of the website to ensure all requirements are met
-
 * Prepare the website for launch (e.g., set up domain and hosting, create backups, etc.)
 
 ## June 30, 2023: Website Launch
 
 * Make the new website live
-
 * Monitor the website for any issues and address them promptly
-
 * Announce the website launch through various communication channels
 
 By adhering to this timeline, the website redesign project should be completed successfully within the designated timeframe, ensuring a smooth transition and a user-friendly experience for all stakeholders.
@@ -89,25 +97,18 @@ By adhering to this timeline, the website redesign project should be completed s
 The website's visual layout has been thoughtfully crafted to embody the school's identity and deliver a seamless user experience across all devices. A collaboration with VOX resulted in a homepage that captures the essence of the school and presents crucial information in a well-organized manner.
 
 *   Homepage:
-
     *   The school colors are prominently displayed throughout the website, forging a powerful visual connection to the school's identity. For program websites with multiple buildings, a dedicated section below the news segment exhibits the logo, building details, and a link to a school-specific page on that program website.
 *   Header:
-
     *   The header showcases the school logo on the left, accompanied by the title. On the opposite end, a circular button opens the navigation menu, ensuring a sleek and consistent interface across all devices.
 *   Hero Image:
-
     *   The hero image features a block on the left, housing the page title and a concise description, enhanced by a color bar representing the school colors.
 *   Welcome Section:
-
     *   After the hero image, a welcome heading introduces the school, followed by a brief description and an eye-catching ribbon design displaying three key facts about the school.
 *   Latest School News:
-
     *   This segment highlights the six most recent news stories, complete with a title and featured image (if available). A button below the news stories navigates users to a blog post page containing all news items.
 *   Special Highlight:
-
     *   Another hero image spotlights a distinctive aspect of the school, such as a unique food pantry, academic option, or historical fact. This image links to a dedicated page with more information.
 *   Footer:
-
     *   The footer presents the school's name, address, student hours, office hours, and social media links, all editable by the school. Furthermore, prominent text about website accessibility and Title IX reporting ensures compliance with federal law requirements.
 
 ## District Homepage
@@ -115,13 +116,10 @@ The website's visual layout has been thoughtfully crafted to embody the school's
 The district homepage maintains a harmonious visual layout with the school websites, preserving a consistent design language throughout the district's online presence. The district homepage incorporates additional elements catering to a wider audience, supplying vital information and resources for the entire district.
 
 *   Video Elements:
-
     *   Engaging video content on the district homepage connects with visitors and effectively conveys essential messages. Videos can highlight district-wide initiatives, showcase success stories, and provide updates on current events.
 *   Icon Quicklinks:
-
     *   A collection of easily recognizable icon quicklinks grants users convenient access to crucial resources and frequently visited pages. These may include online portals, school directories, district calendars, and contact information for key district personnel.
 *   Strategic Plan Focus:
-
     *   The special highlight section on the district homepage underscores the district's strategic plan, exhibiting its vision, mission, and core values. This section can feature a blend of text, images, and videos that communicate the district's dedication to promoting academic excellence and nurturing student growth.
 
 By integrating these supplementary components into the district homepage, the website provides a comprehensive and captivating platform that addresses the diverse needs of the district's community members. The cohesive design language and uniform layout guarantee a smooth user experience while effectively showcasing the district's initiatives and priorities.
@@ -347,11 +345,8 @@ In our ongoing efforts to minimize technical debt and optimize our website infra
 The Information & Media Retention Strategy will adhere to the following guidelines:
 
 *   An annual review of all media and content on the website will be conducted to assess relevance and utility. Any outdated or irrelevant media or content will be removed from the website.
-
 *   The website will only store media and content from the current school year and the previous school year. All media and content from earlier years will be eliminated, effectively reducing backend storage requirements.
-
 *   Site Editors will have the flexibility to group and download their media at any time. This ensures that they can access their content within the designated retention period and store it according to their unique archival strategies.
-
 *   In cases of school consolidation, the information and media from the affected schools will be migrated, following the pattern of retaining content from the current and previous school year. This guarantees that essential information is preserved during the consolidation process.
 
 By implementing these guidelines, we strive to diminish technical debt, boost website performance, and guarantee that only current and relevant information is housed on the website.
