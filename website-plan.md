@@ -1,24 +1,3 @@
-<style>
-
-h1, h2, h3, h4{
-  color: #2e74b5;
-    font-weight: 700;
-    text-decoration: none;
-    vertical-align: baseline;
-    font-family: "Calibri";
-    font-style: normal;
-}
-
-p{
-      padding-top: 8pt;
-    padding-bottom: 8pt;
-    line-height: 1.2;
-    text-align: left;
-}
-li {
-  margin-left: 10pt;
-}
-</style>
 # Enhanced Communication: Rebuilding Stronger Website Redesign
 
 The district is embarking on a website redesign project to elevate communication and deliver a superior user experience for staff, parents, and students that aligns with Rebuilding Stronger's academic evolution. This document highlights the essential technical & functional requirements and plugins needed for the project.
