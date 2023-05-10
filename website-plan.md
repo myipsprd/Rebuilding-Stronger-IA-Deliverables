@@ -200,13 +200,6 @@ WordPress, a versatile and user-friendly Content Management System (CMS), is emp
 
 </tr>
 
-<tr>
-
-<td>Custom Post Types UI</td>
-
-<td>Create and manage custom post types for unique content organization.</td>
-
-</tr>
 
 <tr>
 
