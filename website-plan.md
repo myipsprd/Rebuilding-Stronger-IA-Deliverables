@@ -296,9 +296,9 @@ WordPress, a versatile and user-friendly Content Management System (CMS), is emp
 
 ## CMS Theme
 
-*   Astra
+*   Neve
     *   Free; paid available, but not necessary.
-    *   [https://wordpress.org/themes/astra/](https://wordpress.org/themes/astra/)
+    *   [https://wordpress.org/themes/neve/](https://wordpress.org/themes/neve/)
     *   Offers customization options without being overwhelming.
     *   Supports readability and print-friendly design.
 
@@ -321,7 +321,7 @@ By implementing these guidelines, we strive to diminish technical debt, boost we
 
 ### Efficient File Management
 
-1.  Organizing and downloading files using FileBird
+1.  Organizing and downloading files
 2.  Navigating the Media Manager effectively
 
 ### Streamlined Site Navigation
