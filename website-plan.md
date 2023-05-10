@@ -210,7 +210,7 @@ WordPress, a versatile and user-friendly Content Management System (CMS), is emp
 
 <tr>
 
-<td>FileBird Lite</td>
+<td>Media Library Organizer</td>
 
 <td>Effortlessly organize WordPress media files into folders and categories.</td>
 
@@ -266,7 +266,7 @@ WordPress, a versatile and user-friendly Content Management System (CMS), is emp
 
 <tr>
 
-<td>SiteGround Security</td>
+<td>Word Fence</td>
 
 <td>Protect your WordPress site with comprehensive security features, including login protection and user activity logs.</td>
 
@@ -294,9 +294,6 @@ WordPress, a versatile and user-friendly Content Management System (CMS), is emp
 
 ## Initial Plugin Costs
 
-*   FileBird
-    *   $39; one-time
-    *   [https://codecanyon.net/item/media-folders-manager-for-wordpress/21715379](https://codecanyon.net/item/media-folders-manager-for-wordpress/21715379)
 *   SmartSlider 3
     *   $49; one-time
     *   [https://smartslider3.com/pricing/](https://smartslider3.com/pricing/)
