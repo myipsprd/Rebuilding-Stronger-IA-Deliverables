@@ -19,7 +19,6 @@ The district is embarking on a website redesign project to elevate communication
 *   **Block Management System**: A tightly regulated block management system is necessary to prevent users from being overwhelmed by numerous block choices available in the block editor. 
 *   **Page Builder System**: A powerful page builder system that allows experienced users to create diverse content layouts without custom code. The system should support templating for content reuse in multiple locations and integrate with the native block editor system for long-term support. 
 *   **Integration with Let's Talk**: Leverage the Let's Talk system extensively to streamline communication and feedback between users and district and school staff. 
-*   **Removal of External Requests**: Remove all external requests and services, such as Google Drive, Word Fence, Facebook feeds, and contact forms, to enhance security and eliminate external authentication requests. 
 *   **Redirection Service**: Implement a redirection service within the website infrastructure to enable short link creation and tracking for each website.
 
 # Timeline Estimate for Website Redesign
