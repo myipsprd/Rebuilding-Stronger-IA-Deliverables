@@ -170,10 +170,6 @@ Provide unique educational experiences and specialized skill development opportu
 
 # Essential Technical Infrastructure
 
-## Sending Messages from Website
-
-The website will transition from SMTP authentication for email sending, necessitating collaboration with the Information Technology department to whitelist emails from the website's IP address. This enables the website to send crucial messages, such as reports and password resets. WordPress's built-in email function will be used for sending emails moving forward.
-
 ## Content Management System
 
 WordPress, a versatile and user-friendly Content Management System (CMS), is employed by IPS website for its customization capabilities and multisite features, allowing users to manage multiple websites with a single WordPress installation. This provides an effortless content creation and publishing experience without requiring extensive technical expertise.
