@@ -9,7 +9,6 @@ The district is embarking on a website redesign project to elevate communication
 *   **Blog Posting**: Enable users to create and publish blog stories on their individual websites, featuring text, images, videos, and other media. Users should manage their blog posts without requiring admin privileges.
 *   **Virtual File Organization**: An easy-to-use virtual file organization system that helps users navigate and find documents with support for nested folders, tags, and search functionalities. These folders should be user-specific, allowing everyone to set custom preferences. 
 *   **Complex Tables**: Website infrastructure should support complex tables with features like sorting, filtering, and pagination. 
-*   **Third-party Data Sources**: The system must consume third-party data sources, such as APIs, to display data dynamically on the website. 
 *   **Code Development**: Allow for one-off code development to support custom functionality and integrations. 
 *   **Program-based Design Approach**: Websites should adopt a program-based approach, modeling the upcoming Rebuilding Stronger initiative, instead of individual school websites, ensuring information consistency. Schools without a program will maintain their unique site. 
 *   **Content Approval Mechanism**: Implement a content approval mechanism to ensure all content is vetted and approved before non-administrator users publish it on the website. 
@@ -23,50 +22,22 @@ The district is embarking on a website redesign project to elevate communication
 
 # Timeline Estimate for Website Redesign
 
-To successfully implement the website redesign plan between May 1, 2023, and June 30, 2023, a well-structured timeline is crucial. The timeline should outline key milestones and allocate sufficient time for each phase of the project. Here is a suggested timeline for the website redesign:
+1.  School Website Design Update:
 
-## May 1-7, 2023: Project Kickoff
+    *   May 20 - Start of the project
+    *   May 20 onwards - Begin adjusting school websites at a pace of 5 per week
+    *   Ongoing - Continue adjusting school websites until all 50 websites are updated
+    *   Include training sessions for school staff during the website adjustment period
+2.  District Website Updates:
 
-* Assemble the project team
-* Conduct a project kickoff meeting to discuss objectives, roles, and responsibilities
-* Review the existing website and gather initial feedback
+    *   May 20 - Start of the project
+    *   May 20 onwards - Focus on updating and completing the district website
+    *   Aim to finish the district website by mid-June
+3.  Content Evaluation and Adjustment:
 
-## May 8-21, 2023: Planning and Content Development
-
-* Develop a sitemap and wireframes for the new website
-* Identify content to be updated, created, or removed
-* Assign content creation and editing tasks to team members
-
-## May 22-31, 2023: Design and Development
-
-* Create design mockups based on the wireframes and the approved visual layout
-* Obtain feedback and finalize the design
-* Begin website development using the finalized design
-
-## June 1-15, 2023: Content Integration and Testing
-
-* Populate the new website with content (text, images, videos, etc.)
-* Test the website on various devices and browsers for compatibility
-* Address any technical or content-related issues
-
-## June 16-23, 2023: User Acceptance Testing and Training
-
-* Conduct user acceptance testing with a group of stakeholders
-* Gather feedback and implement necessary changes
-* Train designated school staff on website management and updating
-
-## June 24-29, 2023: Final Review and Launch Preparation
-
-* Conduct a final review of the website to ensure all requirements are met
-* Prepare the website for launch (e.g., set up domain and hosting, create backups, etc.)
-
-## June 30, 2023: Website Launch
-
-* Make the new website live
-* Monitor the website for any issues and address them promptly
-* Announce the website launch through various communication channels
-
-By adhering to this timeline, the website redesign project should be completed successfully within the designated timeframe, ensuring a smooth transition and a user-friendly experience for all stakeholders.
+    *   May 20 - Start of the project
+    *   May 20 onwards - Evaluate and adjust content on an ongoing basis
+    *   Content evaluation and adjustment will continue through July
 
 # Unified Visual Design
 
